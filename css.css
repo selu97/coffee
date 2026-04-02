@@ -455,6 +455,59 @@ body {
     text-align: center;
     margin-bottom: 22px;
 }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Selu Coffee</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- 🔥 NAVBAR -->
+<nav>
+  <h1>Selu Coffee</h1>
+  <ul>
+    <li>Home</li>
+    <li>Menu</li>
+    <li>About</li>
+    <li>Contact</li>
+  </ul>
+</nav>
+
+<!-- ☕ HERO SECTION -->
+<section class="hero">
+  <h2>Fresh Coffee Everyday</h2>
+  <p>Start your day with the best coffee in town</p>
+  <button>Order Now</button>
+</section>
+
+<!-- 📋 MENU -->
+<section class="menu">
+  <h2>Our Menu</h2>
+  <div class="items">
+    <div>Cappuccino - $3</div>
+    <div>Latte - $4</div>
+    <div>Espresso - $2</div>
+  </div>
+</section>
+
+<!-- 👤 ABOUT -->
+<section class="about">
+  <h2>About Us</h2>
+  <p>We serve fresh, organic coffee made with passion.</p>
+</section>
+
+<!-- 📞 CONTACT -->
+<section class="contact">
+  <h2>Contact</h2>
+  <p>Email: selucoffee@email.com</p>
+</section>
+
+</body>
+</html>
 .coffee-hero h1 {
     font-size: 2.3rem;
     color: #fff;
